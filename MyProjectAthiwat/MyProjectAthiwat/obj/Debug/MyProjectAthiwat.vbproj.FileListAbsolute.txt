@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\bin\Debug\MyProjectAthiwat.exe.config
+C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\bin\Debug\MyProjectAthiwat.exe
+C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\bin\Debug\MyProjectAthiwat.pdb
+C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\bin\Debug\MyProjectAthiwat.xml
+C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.Resources.resources
+C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.ProjectTax.resources
+C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.exe
+C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.xml
+C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.pdb
+C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.ProjectSales.resources
