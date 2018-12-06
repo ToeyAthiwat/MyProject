@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\MyprojectSale\MyprojectSale\bin\Debug\MyprojectSale.exe.config
+C:\Users\user\source\repos\MyprojectSale\MyprojectSale\bin\Debug\MyprojectSale.exe
+C:\Users\user\source\repos\MyprojectSale\MyprojectSale\bin\Debug\MyprojectSale.pdb
+C:\Users\user\source\repos\MyprojectSale\MyprojectSale\bin\Debug\MyprojectSale.xml
+C:\Users\user\source\repos\MyprojectSale\MyprojectSale\obj\Debug\MyprojectSale.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\MyprojectSale\MyprojectSale\obj\Debug\MyprojectSale.Form1.resources
+C:\Users\user\source\repos\MyprojectSale\MyprojectSale\obj\Debug\MyprojectSale.Resources.resources
+C:\Users\user\source\repos\MyprojectSale\MyprojectSale\obj\Debug\MyprojectSale.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\MyprojectSale\MyprojectSale\obj\Debug\MyprojectSale.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyprojectSale\MyprojectSale\obj\Debug\MyprojectSale.exe
+C:\Users\user\source\repos\MyprojectSale\MyprojectSale\obj\Debug\MyprojectSale.xml
+C:\Users\user\source\repos\MyprojectSale\MyprojectSale\obj\Debug\MyprojectSale.pdb
