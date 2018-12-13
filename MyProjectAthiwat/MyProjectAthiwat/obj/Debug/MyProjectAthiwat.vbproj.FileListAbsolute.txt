@@ -11,3 +11,16 @@ C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProject
 C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.xml
 C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.pdb
 C:\Users\user\source\repos\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.ProjectSales.resources
+D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\bin\Debug\MyProjectAthiwat.exe.config
+D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\bin\Debug\MyProjectAthiwat.exe
+D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\bin\Debug\MyProjectAthiwat.pdb
+D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\bin\Debug\MyProjectAthiwat.xml
+D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.vbprojResolveAssemblyReference.cache
+D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.Resources.resources
+D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.frm3.resources
+D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.ProjectSales.resources
+D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.ProjectTax.resources
+D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.vbproj.GenerateResource.Cache
+D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.exe
+D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.xml
+D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.pdb
