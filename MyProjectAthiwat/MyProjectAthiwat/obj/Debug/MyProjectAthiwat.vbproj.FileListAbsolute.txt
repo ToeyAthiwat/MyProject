@@ -24,3 +24,5 @@ D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.vbproj
 D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.exe
 D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.xml
 D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.pdb
+D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.frmJob4.resources
+D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.frm5.resources

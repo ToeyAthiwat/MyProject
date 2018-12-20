@@ -1,6 +1,6 @@
 ﻿Public Class frm3
     Private Sub btnUp_Click(sender As Object, e As EventArgs) Handles btnUp.Click
-        txtInput.Font = New Font(txtInput.Font.FontFamily, txtInput.Font.Size + 2)
+        txtInput.Text = Val(txtInput.Text) + 2
     End Sub
 
     Private Sub lblFRed_Click(sender As Object, e As EventArgs) Handles lblFRed.Click
@@ -84,7 +84,7 @@
     End Sub
 
     Private Sub btnDown_Click(sender As Object, e As EventArgs) Handles btnDown.Click
-        txtInput.Font = New Font(txtInput.Font.FontFamily, txtInput.Font.Size - 2)
+        txtInput.Text = Val(txtInput.Text) - 2
     End Sub
 
     Private Sub cbosize_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cbosize.SelectedIndexChanged
