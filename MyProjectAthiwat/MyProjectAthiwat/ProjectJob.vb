@@ -30,24 +30,18 @@
     End Sub
 
     Private Sub radShortDate_CheckedChanged(sender As Object, e As EventArgs) Handles radShortDate.CheckedChanged
-        If radGenDate.Checked Then
-
-            lblDate.Text = FormatDateTime(Today, DateFormat.ShortDate)
-        End If
+        Dim mDate As Date = Date.Now
+        lblDate.Text = mDate.Date
 
     End Sub
 
     Private Sub radGenDate_CheckedChanged(sender As Object, e As EventArgs) Handles radGenDate.CheckedChanged
-        If radGenDate.Checked Then
-
-            lblDate.Text = FormatDateTime(Today, DateFormat.GeneralDate)
-        End If
+        Dim mDate As Date = Date.Now
+        lblDate.Text = mDate
     End Sub
 
     Private Sub radLongDate_CheckedChanged(sender As Object, e As EventArgs) Handles radLongDate.CheckedChanged
-        If radGenDate.Checked Then
-
-            lblDate.Text = FormatDateTime(Today, DateFormat.LongDate)
-        End If
+        Dim longDate As String = Format(Now, "Long Date")
+        lblDate.Text = longDate
     End Sub
 End Class

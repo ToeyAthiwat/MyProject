@@ -76,7 +76,7 @@
     Private Sub radOther_CheckedChanged(sender As Object, e As EventArgs) Handles radOther.CheckedChanged
 
         gpbPaid.Enabled = False
-            radPaid.Checked = True
+        radPaid.Checked = True
 
 
 

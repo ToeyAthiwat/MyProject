@@ -270,7 +270,7 @@ Partial Class frm5
         Me.Label8.Location = New System.Drawing.Point(110, 9)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(220, 23)
-        Me.Label8.TabIndex = 5
+        Me.Label8.TabIndex = 0
         Me.Label8.Text = "โปรแกรมคำนวณการขาย"
         Me.Label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
