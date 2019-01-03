@@ -92,7 +92,7 @@
         End If
     End Sub
 
-    Private Sub ChkForme_CheckedChanged(sender As Object, e As EventArgs) Handles ChkForme.CheckedChanged
+    Private Sub ChkForme_CheckedChanged(sender As Object, e As EventArgs)
 
     End Sub
 End Class

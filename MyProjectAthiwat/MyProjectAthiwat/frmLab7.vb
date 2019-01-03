@@ -41,7 +41,10 @@
             cboOutput.Items.Add(LstAdd.SelectedItem)
             b = LstAdd.SelectedIndex
             If LstAdd.SelectedIndex = LstAdd.Items.Count - 1 Then
-                LstAdd.Items.Remove(LstAdd.SelectedIndex)
+                LstAdd.Items.RemoveAt(LstAdd.SelectedIndex)
+                LstAdd.SelectedIndex = LstAdd.Items.Count - 1
+            Else
+                LstAdd.Items.RemoveAt(LstAdd.SelectedIndex)
                 LstAdd.SelectedIndex = b
             End If
             cboOutput.SelectedIndex = cboOutput.Items.Count - 1

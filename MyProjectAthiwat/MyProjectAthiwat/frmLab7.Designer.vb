@@ -175,7 +175,6 @@ Partial Class frmLab7
         Me.lblOutput.Name = "lblOutput"
         Me.lblOutput.Size = New System.Drawing.Size(148, 23)
         Me.lblOutput.TabIndex = 5
-        Me.lblOutput.Text = "lblOutput"
         Me.lblOutput.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'frmLab7
