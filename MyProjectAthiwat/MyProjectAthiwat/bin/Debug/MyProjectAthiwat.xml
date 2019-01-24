@@ -22,5 +22,145 @@ MyProjectAthiwat
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_apple_fruit_science_school_2824449">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_bag_pack_container_school_2824442">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_board_math_class_school_2824448">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_Book_3069185">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_book_note_paper_school_2824439">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_Business_case_3069184">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_calculator_math_tool_school_2824440">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_Camera_3069183">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_clock_stopwatch_timer_time_2824441">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_Computer_3069182">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_Glasses_3069196">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_globe_earth_geograhy_planet_school_2824444">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_graduation_square_academic_cap_school_2824450">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_Idea_3069195">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_microscope_lab_science_school_2824435">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_paint_color_pallete_brush_academy_2824445">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_pencil_pen_stationery_school_2824443">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_plane_paper_toy_science_school_2824447">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_ruler_triangle_stationary_school_2824436">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_School_3069193">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_Science_1_3069191">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_Science_3069192">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_Search_3069190">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_Tool_3069189">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_tube_lab_science_school_2824437">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_Winner_1_3069187">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.iconfinder_Winner_3069188">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyProjectAthiwat.My.Resources.Resources.visual_studio">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>

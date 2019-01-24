@@ -46,7 +46,7 @@
     
     mimetype: application/x-microsoft.net.object.binary.base64
     value   : The object must be serialized with 
-            : System.Serialization.Formatters.Binary.BinaryFormatter
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
     
     mimetype: application/x-microsoft.net.object.soap.base64
@@ -60,6 +60,7 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
@@ -68,9 +69,10 @@
               <xsd:sequence>
                 <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="name" use="required" type="xsd:string" />
               <xsd:attribute name="type" type="xsd:string" />
               <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
@@ -85,9 +87,10 @@
                 <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
                 <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
               <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
               <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
@@ -109,9 +112,94 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="iconfinder_tube-lab-science-school_2824437" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_tube-lab-science-school_2824437.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_clock-stopwatch-timer-time_2824441" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_clock-stopwatch-timer-time_2824441.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_ruler-triangle-stationary-school_2824436" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_ruler-triangle-stationary-school_2824436.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_Science_3069192" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_Science_3069192.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_Book_3069185" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_Book_3069185.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_microscope-lab-science-school_2824435" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_microscope-lab-science-school_2824435.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_Winner_1_3069187" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_Winner_1_3069187.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_calculator-math-tool-school_2824440" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_calculator-math-tool-school_2824440.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_pencil-pen-stationery-school_2824443" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_pencil-pen-stationery-school_2824443.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_School_3069193" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_School_3069193.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_Camera_3069183" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_Camera_3069183.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_apple-fruit-science-school_2824449" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_apple-fruit-science-school_2824449.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_graduation-square-academic-cap-school_2824450" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_graduation-square-academic-cap-school_2824450.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_Business_case_3069184" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_Business_case_3069184.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_Winner_3069188" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_Winner_3069188.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="visual-studio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\visual-studio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_Search_3069190" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_Search_3069190.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_Idea_3069195" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_Idea_3069195.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_paint-color-pallete-brush-academy_2824445" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_paint-color-pallete-brush-academy_2824445.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_plane-paper-toy-science-school_2824447" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_plane-paper-toy-science-school_2824447.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_book-note-paper-school_2824439" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_book-note-paper-school_2824439.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_globe-earth-geograhy-planet-school_2824444" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_globe-earth-geograhy-planet-school_2824444.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_board-math-class-school_2824448" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_board-math-class-school_2824448.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_Tool_3069189" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_Tool_3069189.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_bag-pack-container-school_2824442" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_bag-pack-container-school_2824442.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_Computer_3069182" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_Computer_3069182.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_Science_1_3069191" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_Science_1_3069191.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iconfinder_Glasses_3069196" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\iconfinder_Glasses_3069196.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

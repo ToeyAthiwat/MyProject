@@ -29,3 +29,4 @@ D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.frm5.r
 D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.frmJob6.resources
 D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.frmLab7.resources
 D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.frmLab8.resources
+D:\MyProject\MyProjectAthiwat\MyProjectAthiwat\obj\Debug\MyProjectAthiwat.frmMain.resources

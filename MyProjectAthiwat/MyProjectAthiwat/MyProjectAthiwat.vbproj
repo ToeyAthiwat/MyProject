@@ -97,10 +97,16 @@
     <Compile Include="frmLab8.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Projectcolors.Designer.vb">
-      <DependentUpon>Projectcolors.vb</DependentUpon>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
     </Compile>
-    <Compile Include="Projectcolors.vb">
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLab3.Designer.vb">
+      <DependentUpon>frmLab3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLab3.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="ProjectJob.Designer.vb">
@@ -151,14 +157,17 @@
     <EmbeddedResource Include="frmLab8.resx">
       <DependentUpon>frmLab8.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Projectcolors.resx">
-      <DependentUpon>Projectcolors.vb</DependentUpon>
+    <EmbeddedResource Include="frmLab3.resx">
+      <DependentUpon>frmLab3.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ProjectJob.resx">
       <DependentUpon>ProjectJob.vb</DependentUpon>
@@ -181,6 +190,90 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="visual-studio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_tube-lab-science-school_2824437.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_ruler-triangle-stationary-school_2824436.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_plane-paper-toy-science-school_2824447.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_pencil-pen-stationery-school_2824443.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_book-note-paper-school_2824439.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_bag-pack-container-school_2824442.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_apple-fruit-science-school_2824449.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_graduation-square-academic-cap-school_2824450.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_microscope-lab-science-school_2824435.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_globe-earth-geograhy-planet-school_2824444.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_board-math-class-school_2824448.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_paint-color-pallete-brush-academy_2824445.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_calculator-math-tool-school_2824440.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_clock-stopwatch-timer-time_2824441.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_Book_3069185.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_Science_3069192.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_Business_case_3069184.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_Science_1_3069191.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_Search_3069190.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_Computer_3069182.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_Camera_3069183.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_Idea_3069195.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_School_3069193.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_Tool_3069189.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_Winner_3069188.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_Winner_1_3069187.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconfinder_Glasses_3069196.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

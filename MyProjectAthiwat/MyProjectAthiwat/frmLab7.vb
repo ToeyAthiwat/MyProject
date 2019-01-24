@@ -1,6 +1,6 @@
 ﻿Public Class frmLab7
     Private Sub frmLab7_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        btnAdd.Enabled = False
+        btnAdd.Enabled = False 'เมื่อโหลดฟอร์มขึ้นมาปุ่ม Add ต้องใช่ไม่ได้
 
     End Sub
 

@@ -3,10 +3,10 @@
     Dim sumCredit As Integer
 
     Private Sub frmLab8_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Dim intScore As Decimal = 150
+        Dim intScore As Decimal = 150 'กำหนดตัวแปรให้ = 150
         Dim intCredit As Decimal = 50
         Dim intGPA As Decimal
-        lblOldtotalScore.Text = intScore
+        lblOldtotalScore.Text = intScore    'กำหนดlblช่องนี้มีค่าตามตัวที่แปรที่กำหนด
         lblOldtotalCredit.Text = intCredit
         intGPA = intScore / intCredit
         lblOldGPA.Text = FormatNumber(intGPA)
@@ -39,13 +39,13 @@
             End If
         End If
 
-        lstSubJect.Items.Add(txtSubJect.Text)
+        lstSubJect.Items.Add(txtSubJect.Text) 'เมื่อเพิ่มข้อมูลใน Lst ให้ไปโชว์ใน Txt
         lstScore.Items.Add(txtScore.Text)
         lstCredit.Items.Add(txtCredit.Text)
-        lstGrade.Items.Add(ss)
+        lstGrade.Items.Add(ss) 'Lst Grade มีค่าในฟังกชั่น getgrade
 
 
-        lstSubJect.SelectedIndex = lstSubJect.Items.Count - 1
+        lstSubJect.SelectedIndex = lstSubJect.Items.Count - 1 'เมือ Lst ถูกเลือก ให้ทำการลบ 1
         lstScore.SelectedIndex = lstScore.Items.Count - 1
         lstCredit.SelectedIndex = lstCredit.Items.Count - 1
 
